@@ -1,5 +1,5 @@
 body {
-    background-color: #80a6ee;
+    background-color: #fab9ff;
     
 }
 
@@ -35,9 +35,9 @@ body {
 
 @keyframes animate {
     0% {
-        transform: rotate(0deg);
+        transform: rotate(360deg);
     }
     100% {
-        transform: rotate(360deg);
+        transform: rotate(0%);
     }
 }
